@@ -1,0 +1,7 @@
+Word Count report
+Total words: 17
+i-2
+decided-1
+to-1
+stop-1
+putting-1
