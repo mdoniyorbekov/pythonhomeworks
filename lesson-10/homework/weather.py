@@ -26,5 +26,5 @@ if response.status_code == 200:
     print(f"Condition: {weather_description.capitalize()}") 
 
 else:
-    print("Oops! Couldn't fetch weather data.")
-    print("Check if the city name is correct or if your API key is valid.")
+    print("sorry, we couldn't find a weather data.")
+    print("Check if the city name is correct or if your API key is still valid, thanks")
