@@ -1,0 +1,1 @@
+print(any(char.isdigit() for char in input("Enter a string: ")))
