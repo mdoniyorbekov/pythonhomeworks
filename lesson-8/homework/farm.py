@@ -26,7 +26,7 @@ class Cat(Animal):
 
 if __name__== "__main__":
     cow = Cow("Masha", 5)
-    chicken = Chicken("purry", 2)
+    chicken = Chicken("Purry", 2)
     cat = Cat("Tom", 3)
 
 cow.eat()
